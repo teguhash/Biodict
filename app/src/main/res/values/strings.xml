@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Biodict</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="language_array">
+        <item>Bahasa</item>
+        <item>English</item>
+        <item>Latin</item>
+    </string-array>
+</resources>
